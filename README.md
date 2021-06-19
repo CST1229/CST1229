@@ -1,2 +1,1 @@
-github forks give you deals on the repos you love  
-the kind of deals that make you code
+| [Discuss](https://github.com/CST1229/CST1229/discussions) | [Bookmarklets and stuff](https://gist.github.com/CST1229) | [Website](https://cst1229.github.io) | [Scratch](https://scratch.mit.edu/users/CST1229) | [YouTube (not that I use it that much)](https://youtube.com/channel/UCMOtGiUfZ4kDt4xTwxzgKgA) | 
